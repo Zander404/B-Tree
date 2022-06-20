@@ -1,0 +1,3 @@
+C:/Users/Zander/Downloads/ArvoreB/cmake-build-debug/CMakeFiles/ArvoreB.dir
+C:/Users/Zander/Downloads/ArvoreB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zander/Downloads/ArvoreB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
